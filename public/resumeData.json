@@ -1,0 +1,122 @@
+{
+  "main": {
+    "name": "Piyush Solakhiya",
+    "occupation": "A Developer",
+    "description": "I eat, sleep and breathe React",
+    "image": "profilepic.jpg",
+    "bio": "Hi there! I am Piyush. I enjoy creating things that live on the internet, whether that be websites , UI interface, Animations, Applications, or anything in between. ",
+    "contactmessage": "Get in touch with me!",
+    "email": "piyushsolakhiya@gmail.com",
+    "phone": "+91 9754831599",
+    "address": {
+      "street": "LIG 128 Indira Nagar",
+      "city": "Shivpuri",
+      "state": "Madhaya Pradesh",
+      "zip": "473551"
+    },
+    "website": "https://piyushsolakhiya.netlify.app/",
+    "resumedownload": "https://drive.google.com/file/d/12GAEKVQUY-bqmKFAt4xTnNDY1j6Cz_ZT/view?usp=sharing",
+    "social": [
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/piyush-solakhiya-4b5715208/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": "https://www.instagram.com/_p_you_shh0001/",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/piyush0001-wq",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "My Programming Language Proficiency",
+    "education": [
+      {
+        "school": "School Of Computer Science & Information Technology",
+        "degree": "Bachelor Of Computer Applications aka BCA",
+        "description": "2021 Graduate"
+      }
+    ],
+    "work": [
+      {
+        "company": "IdeatNstart",
+        "title": "FrontEnd Developer Intern",
+        "years": "March 2021",
+        "description": "Cloning all the apps possible. On the way to clone the world! "
+      }
+    ],
+    "skills": [
+      {
+        "name": "UI/UX Designing",
+        "level": "90%"
+      },
+      {
+        "name": "ReactJs",
+        "level": "70%"
+      },
+      {
+        "name": "Python",
+        "level": "60%"
+      },
+      {
+        "name": "Git",
+        "level": "70%"
+      },
+      {
+        "name": "JavaScript",
+        "level": "80%"
+      },
+      {
+        "name": "Web Development",
+        "level": "90%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "Ever Note Clone (React JS)",
+        "category": "",
+        "image": "01_Evernote_logo.jpg",
+        "url": "https://evernote-clone-271a5.web.app/"
+      },
+      {
+        "title": "Movie App (React JS)",
+        "category": "",
+        "image": "movieX.png",
+        "url": "https://moviex-e47d0.web.app/"
+      },
+      {
+        "title": "ChatWithMe App (React JS)",
+        "category": "",
+        "image": "i chat.png",
+        "url": "https://chatwithme-9828d.web.app/"
+      },
+       {
+        "title": "Photo Gallery App (React JS)",
+        "category": "",
+        "image": "photogallery.PNG",
+        "url": "https://photogallery-8af5b.web.app/"
+      },
+       {
+        "title": "Coronavirus word blocker App (Vanilla JS)",
+        "category": "",
+        "image": "coronavirus.PNG",
+        "url": "https://piyushsolakhiya-coronavirus-blocker.netlify.app/"
+      },
+       {
+        "title": "Minionese (Vanilla JS)",
+        "category": "Let's talk in minion's language",
+        "image": "minionese.PNG",
+        "url": "https://bananatalkswithpiyush.netlify.app/"
+      }
+
+    ]
+  }
+}
